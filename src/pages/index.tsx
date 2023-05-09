@@ -31,7 +31,7 @@ const Home: React.FC = () => {
       songs: ['Scartissue', 'Soul To Squeeze', 'Californication']
     },
     {
-      artistName: 'Alceu Valença',
+      artistName: 'Alceu Valenção',
       songs: ['Tu vens']
     }
   ]
